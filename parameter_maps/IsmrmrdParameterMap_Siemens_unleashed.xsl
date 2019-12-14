@@ -64,7 +64,6 @@
                        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
                        xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
-            <!--
             <subjectInformation>
                 <patientName>
                     <xsl:value-of select="siemens/DICOM/tPatientName"/>
@@ -92,7 +91,6 @@
                 </studyInstanceUID>
 
             </studyInformation>
-            -->
 
             <measurementInformation>
                 <measurementID>
